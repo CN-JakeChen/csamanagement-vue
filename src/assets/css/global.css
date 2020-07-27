@@ -1,0 +1,50 @@
+/* 全局样式表 */
+html,body,#app{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.el-breadcrumb{
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+
+.el-card{
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15) !important;
+}
+
+.el-table{
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.el-table-column{
+    text-align: center;
+}
+.el-main{
+    background-color: whitesmoke !important;
+    
+}
+
+.el-pagination{
+    margin-top: 13px;
+}
+
+.fdiv {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+
+/*美化滚动条
+/* 滚动条宽度 */
+::-webkit-scrollbar {
+ width: 7px;
+ height: 10px;
+}
+/* 滚动条的滑块 */
+::-webkit-scrollbar-thumb {
+ background-color: #a1a3a9;
+ border-radius: 3px;
+}
