@@ -1,5 +1,7 @@
 # vue_csamanagement
 
+![](https://img.shields.io/badge/license-MIT-blue) ![](https://img.shields.io/badge/version-V1.0-green) ![](https://img.shields.io/badge/blog-jakechen.top-red)
+
 ## Project setup
 ```
 npm install
